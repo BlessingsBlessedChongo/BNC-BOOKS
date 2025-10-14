@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: oklch(62% 12% 260); 
+  --color-primary-50: oklch(98% 2% 260);
+  --color-primary-100: oklch(95% 3% 260);
+  --color-primary-200: oklch(92% 4% 260);
+  --color-primary-300: oklch(85% 6% 260);
+  --color-primary-400: oklch(75% 8% 260);
+  --color-primary-500: oklch(62% 12% 260); 
+  --color-primary-600: oklch(55% 10% 260);
+  --color-primary-700: oklch(45% 8% 260);
+  --color-primary-800: oklch(35% 6% 260);
+  --color-primary-900: oklch(25% 4% 260);
+  --color-primary-950: oklch(15% 2% 260);
+}
+
+/* Custom components */
+@layer components {
+  .btn-primary {
+    @apply bg-primary-500 hover:bg-primary-600 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200;
+  }
+  .btn-secondary {
+    @apply bg-gray-200 hover:bg-gray-300 text-gray-800 font-medium py-2 px-4 rounded-lg transition-colors duration-200;
+  }
+  .input-field {
+    @apply w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent;
+  }
+  .card {
+    @apply bg-white rounded-lg shadow-md border border-gray-200;
+  }
+}

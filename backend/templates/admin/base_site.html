@@ -1,0 +1,40 @@
+{% extends "admin/base.html" %}
+
+{% block title %}{{ title }} | {{ site_title|default:_('BNC Books Admin') }}{% endblock %}
+
+{% block branding %}
+<h1 id="site-name">
+    <a href="{% url 'admin:index' %}">
+        <img src="/static/admin/img/logo.png" height="40px" style="margin-right: 10px;">
+        BNC Books Administration
+    </a>
+</h1>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}
+
+{% block extrahead %}
+<style>
+    :root {
+        --primary: #2563eb;
+        --secondary: #64748b;
+        --accent: #f59e0b;
+    }
+    
+    #header {
+        background: var(--primary);
+    }
+    
+    .module h2, .module caption, .inline-group h2 {
+        background: var(--secondary);
+    }
+    
+    .button, input[type=submit], input[type=button], .submit-row input, a.button {
+        background: var(--primary);
+    }
+    
+    .button:hover, input[type=submit]:hover, input[type=button]:hover {
+        background: var(--accent);
+    }
+</style>
+{% endblock %}
