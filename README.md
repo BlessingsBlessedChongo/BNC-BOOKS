@@ -7,6 +7,18 @@
 
 A full-stack, modern book marketplace built with Vue.js and Django. BNC Books connects book lovers with sellers worldwide, offering a seamless shopping experience with advanced features for buyers, sellers, and affiliates.
 
+
+https://github.com/user-attachments/assets/f50396af-22fe-40e8-ad28-fcdf8acf2e40
+<img width="1919" height="878" alt="Screenshot 2025-10-15 014913" src="https://github.com/user-attachments/assets/b80cb36d-8a8d-4113-9c21-8cc6e3e251a8" />
+<img width="1919" height="884" alt="Screenshot 2025-10-15 015014" src="https://github.com/user-attachments/assets/7f40a922-b01a-4f3e-a1a3-28ecaa92be8b" />
+<img width="1914" height="875" alt="Screenshot 2025-10-15 015027" src="https://github.com/user-attachments/assets/f2ebcd51-50aa-444f-8639-5615e6142b80" />
+<img width="1906" height="878" alt="Screenshot 2025-10-15 015038" src="https://github.com/user-attachments/assets/7ef6c306-90fd-407e-9863-1c1fc530d2b9" />
+<img width="1919" height="878" alt="Screenshot 2025-10-15 015200" src="https://github.com/user-attachments/assets/144023ca-20d5-4841-9acd-19d428a75a09" />
+<img width="1899" height="877" alt="Screenshot 2025-10-15 015217" src="https://github.com/user-attachments/assets/9e740478-5d23-4d79-bbbc-d714fe9eae88" />
+<img width="1919" height="952" alt="Screenshot 2025-10-15 015343" src="https://github.com/user-attachments/assets/af689b69-d8e1-4dfe-8817-aeb2c72db8b3" />
+
+
+
 ## 🎯 Features
 
 ### 🛍️ For Book Buyers
