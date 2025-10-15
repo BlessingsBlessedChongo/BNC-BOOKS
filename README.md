@@ -8,7 +8,9 @@
 A full-stack, modern book marketplace built with Vue.js and Django. BNC Books connects book lovers with sellers worldwide, offering a seamless shopping experience with advanced features for buyers, sellers, and affiliates.
 
 
-https://github.com/user-attachments/assets/f50396af-22fe-40e8-ad28-fcdf8acf2e40
+<video src="https://github.com/user-attachments/assets/f50396af-22fe-40e8-ad28-fcdf8acf2e40" width="640" height="480" controls>
+  BNC BOOKS HOMEPAGE
+</video>
 <img width="1919" height="878" alt="Screenshot 2025-10-15 014913" src="https://github.com/user-attachments/assets/b80cb36d-8a8d-4113-9c21-8cc6e3e251a8" />
 <img width="1919" height="884" alt="Screenshot 2025-10-15 015014" src="https://github.com/user-attachments/assets/7f40a922-b01a-4f3e-a1a3-28ecaa92be8b" />
 <img width="1914" height="875" alt="Screenshot 2025-10-15 015027" src="https://github.com/user-attachments/assets/f2ebcd51-50aa-444f-8639-5615e6142b80" />
